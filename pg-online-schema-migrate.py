@@ -1,4 +1,5 @@
 import fire
+from loguru import logger
 
 
 class PgOnlineSchemaMigrate(object):
